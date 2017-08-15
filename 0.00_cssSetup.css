@@ -1,0 +1,17 @@
+body {
+	//this is a line comment
+	/* this is a block comment */
+	background-color: #e5e5e5; /*if all the numbers or letters are the same you can shorten it to 3 digits*/
+}
+div {
+	margin: 20px;
+}
+h3 {
+	font-weight: bold;
+}
+h1 {
+	font-weight: bold;
+}
+img {
+	border: 1px solid black;
+}
